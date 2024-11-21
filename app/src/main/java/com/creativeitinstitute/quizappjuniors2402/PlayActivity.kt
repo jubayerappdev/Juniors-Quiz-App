@@ -131,7 +131,7 @@ class PlayActivity : AppCompatActivity() {
                 index++
             }else{
 
-                Toast.makeText(this@PlayActivity, "Finished", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this@PlayActivity, "Finished Quiz", Toast.LENGTH_SHORT).show()
             }
 
 
